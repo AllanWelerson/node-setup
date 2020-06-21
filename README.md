@@ -1,0 +1,1 @@
+Configuração estrutura node com typescript seguindo tutorial da rocketseat - https://www.youtube.com/watch?v=rCeGfFk-uCk&t=1s
